@@ -15,8 +15,7 @@
          </address>
     </Hotel>
     
-
- <Hotel Rating="4.1">
+    <Hotel Rating="3.1">
         <Name>Westin2</Name>
         <Phone> 480-968-8886</Phone>
         <Phone> 800-937-8464 </Phone>
@@ -29,8 +28,123 @@
          </address>
     </Hotel>
 
+    <Hotel Rating="4.4">
+        <Name>Westin3</Name>
+        <Phone> 480-968-8881</Phone>
+        <Phone> 800-937-8463 </Phone>
+        <address NearestAirport="Sky Harbor3">
+            <Number>13</Number>
+            <Street>E.1th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+         </address>
+    </Hotel>
+
+    <Hotel Rating="4.2">
+        <Name>Westin4</Name>
+        <Phone> 480-968-8811</Phone>
+        <Phone> 800-937-8411 </Phone>
+        <address NearestAirport="Sky Harborr">
+            <Number>14</Number>
+            <Street>E.2th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+         </address>
+    </Hotel>
 
 
+    <Hotel Rating="4.8">
+        <Name>Westin5</Name>
+        <Phone> 480-968-8812</Phone>
+        <Phone> 800-937-8412 </Phone>
+        <address NearestAirport="Sky Harborc">
+            <Number>15</Number>
+            <Street>E.3th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+         </address>
+    </Hotel>
+
+     <Hotel Rating="2.8">
+        <Name>Westin6</Name>
+        <Phone> 480-968-8813</Phone>
+        <Phone> 800-937-8413 </Phone>
+        <address NearestAirport="Sky Harborz">
+            <Number>16</Number>
+            <Street>E.5th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+         </address>
+    </Hotel>
+
+     <Hotel Rating="1.8">
+        <Name>Westin7</Name>
+        <Phone> 480-968-8815</Phone>
+        <Phone> 800-937-8415 </Phone>
+        <address NearestAirport="Sky Harborcs">
+            <Number>16</Number>
+            <Street>E.3th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+         </address>
+    </Hotel>
+
+     <Hotel Rating="3.1">
+        <Name>Westin8</Name>
+        <Phone> 480-968-8819</Phone>
+        <Phone> 800-937-8419 </Phone>
+        <address NearestAirport="Sky Harborc">
+            <Number>17</Number>
+            <Street>E.3th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+         </address>
+    </Hotel>
+
+    <Hotel Rating="1.4">
+        <Name>Westin9</Name>
+        <Phone> 480-968-8801</Phone>
+        <Phone> 800-937-8401 </Phone>
+        <address NearestAirport="Sky Harbors">
+            <Number>18</Number>
+            <Street>E.13th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+         </address>
+    </Hotel>
+
+     <Hotel Rating="3.8">
+        <Name>Westin10</Name>
+        <Phone> 480-968-8802</Phone>
+        <Phone> 800-937-8402 </Phone>
+        <address NearestAirport="Sky Harborcs">
+            <Number>19</Number>
+            <Street>E.14th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+         </address>
+    </Hotel>
+
+    <Hotel Rating="3.9">
+        <Name>Westin11</Name>
+        <Phone> 480-968-8803</Phone>
+        <Phone> 800-937-8403 </Phone>
+        <address NearestAirport="Sky Harborg">
+            <Number>20</Number>
+            <Street>E.15th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+         </address>
+    </Hotel>
 
 
 
