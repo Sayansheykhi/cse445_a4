@@ -19,6 +19,8 @@
         <Name>Westin2</Name>
         <Phone> 480-968-8886</Phone>
         <Phone> 800-937-8464 </Phone>
+        <Phone> 800-937-2464 </Phone>
+        <Phone> 800-937-1464 </Phone>
         <address NearestAirport="Sky Harbor">
             <Number>12</Number>
             <Street>E.8th St</Street>
@@ -28,7 +30,7 @@
          </address>
     </Hotel>
 
-    <Hotel Rating="4.4">
+    <Hotel>
         <Name>Westin3</Name>
         <Phone> 480-968-8881</Phone>
         <Phone> 800-937-8463 </Phone>
@@ -55,10 +57,12 @@
     </Hotel>
 
 
-    <Hotel Rating="4.8">
+    <Hotel>
         <Name>Westin5</Name>
         <Phone> 480-968-8812</Phone>
         <Phone> 800-937-8412 </Phone>
+        <Phone> 800-936-8412 </Phone>
+        <Phone> 800-930-8412 </Phone>
         <address NearestAirport="Sky Harborc">
             <Number>15</Number>
             <Street>E.3th St</Street>
@@ -72,6 +76,8 @@
         <Name>Westin6</Name>
         <Phone> 480-968-8813</Phone>
         <Phone> 800-937-8413 </Phone>
+        <Phone> 800-937-8113 </Phone>
+        <Phone> 800-937-8213 </Phone>
         <address NearestAirport="Sky Harborz">
             <Number>16</Number>
             <Street>E.5th St</Street>
@@ -94,7 +100,7 @@
          </address>
     </Hotel>
 
-     <Hotel Rating="3.1">
+     <Hotel>
         <Name>Westin8</Name>
         <Phone> 480-968-8819</Phone>
         <Phone> 800-937-8419 </Phone>
@@ -111,6 +117,8 @@
         <Name>Westin9</Name>
         <Phone> 480-968-8801</Phone>
         <Phone> 800-937-8401 </Phone>
+        <Phone> 800-908-8401 </Phone>
+        <Phone> 800-907-8401 </Phone>
         <address NearestAirport="Sky Harbors">
             <Number>18</Number>
             <Street>E.13th St</Street>
@@ -120,7 +128,7 @@
          </address>
     </Hotel>
 
-     <Hotel Rating="3.8">
+     <Hotel>
         <Name>Westin10</Name>
         <Phone> 480-968-8802</Phone>
         <Phone> 800-937-8402 </Phone>
