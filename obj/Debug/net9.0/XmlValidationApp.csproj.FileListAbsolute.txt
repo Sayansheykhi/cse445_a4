@@ -1,0 +1,17 @@
+/Users/sayan/Assignment4-XML/XmlValidationApp/obj/Debug/net9.0/XmlValidationApp.csproj.AssemblyReference.cache
+/Users/sayan/Assignment4-XML/XmlValidationApp/obj/Debug/net9.0/XmlValidationApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sayan/Assignment4-XML/XmlValidationApp/obj/Debug/net9.0/XmlValidationApp.AssemblyInfoInputs.cache
+/Users/sayan/Assignment4-XML/XmlValidationApp/obj/Debug/net9.0/XmlValidationApp.AssemblyInfo.cs
+/Users/sayan/Assignment4-XML/XmlValidationApp/obj/Debug/net9.0/XmlValidationApp.csproj.CoreCompileInputs.cache
+/Users/sayan/Assignment4-XML/XmlValidationApp/bin/Debug/net9.0/XmlValidationApp
+/Users/sayan/Assignment4-XML/XmlValidationApp/bin/Debug/net9.0/XmlValidationApp.deps.json
+/Users/sayan/Assignment4-XML/XmlValidationApp/bin/Debug/net9.0/XmlValidationApp.runtimeconfig.json
+/Users/sayan/Assignment4-XML/XmlValidationApp/bin/Debug/net9.0/XmlValidationApp.dll
+/Users/sayan/Assignment4-XML/XmlValidationApp/bin/Debug/net9.0/XmlValidationApp.pdb
+/Users/sayan/Assignment4-XML/XmlValidationApp/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/sayan/Assignment4-XML/XmlValidationApp/obj/Debug/net9.0/XmlValid.C31AB075.Up2Date
+/Users/sayan/Assignment4-XML/XmlValidationApp/obj/Debug/net9.0/XmlValidationApp.dll
+/Users/sayan/Assignment4-XML/XmlValidationApp/obj/Debug/net9.0/refint/XmlValidationApp.dll
+/Users/sayan/Assignment4-XML/XmlValidationApp/obj/Debug/net9.0/XmlValidationApp.pdb
+/Users/sayan/Assignment4-XML/XmlValidationApp/obj/Debug/net9.0/XmlValidationApp.genruntimeconfig.cache
+/Users/sayan/Assignment4-XML/XmlValidationApp/obj/Debug/net9.0/ref/XmlValidationApp.dll
