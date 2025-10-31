@@ -5,14 +5,14 @@
         <xs:complexType>
             
             <xs:sequence>
-                <xs:element name="Hotel" maxOccurs="unbounded">
+                <xs:element name="Name" maxOccurs="unbounded">
                     <xs:complexType>
                         
                         <xs:sequence>
                             <xs:element name="Hotel" type="xs:string"/>
                             <xs:element name="Phone" type="xs:string" maxOccurs="unbounded"/>
 
-                            <xs:element name="address">
+                            <xs:element name="Address">
                                 <xs:complexType>
                                     <xs:sequence>
                                         <xs:element name="Number"  type="xs:positiveInteger"/>
@@ -27,13 +27,12 @@
                                 </xs:complexType>
                             </xs:element>
                         </xs:sequence>
-
+                    <xs:attribute name="Rating" type="xs:double" use="optional"/>
 
 
                     </xs:complexType>
                 </xs:element>
             </xs:sequence>
-            <xs:attribute name="Rating" type="xs:double" use="optional"/>
         </xs:complexType>
     </xs:element>
     
